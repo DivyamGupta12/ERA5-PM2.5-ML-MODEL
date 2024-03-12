@@ -16,15 +16,15 @@ the 21500685_Divyam_IP0NB0000016_selectiontask.ipynb contains the required code
 
 Libraries used - 
 Pandas
-Numpy
-Matplotlib
-Basemap
-Xarray
-Netcdf
-Sklearn
-XGBoost
-
+,Numpy
+, Matplotlib
+, Basemap
+, Xarray
+, Netcdf
+, Sklearn
+, XGBoost
+and Cartopy
 References - 
-Articles and papers from www.sciencedirect.com
-NetCDF Primer - https://ornl-training.github.io/python-advanced-pandas/01-data-formats/
-Getting Hands on Climate Data - https://nordicesmhub.github.io/climate-data-tutorial/
+Articles and papers from www.sciencedirect.com  
+  NetCDF Primer - https://ornl-training.github.io/python-advanced-pandas/01-data-formats/
+  Getting Hands on Climate Data - https://nordicesmhub.github.io/climate-data-tutorial/
