@@ -1,5 +1,4 @@
 # ERA5-PM2.5-ML-MODEL
-This repository contains the project files for the selection task of the IP0NB000016 project. 
 
 The predictors data is taken from - https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels-monthly-means?tab=overview
 
@@ -16,7 +15,7 @@ It contains the percentage of population which is lie in a specific PM 2.5 conce
 
 This data file is included in the repository
 
-the 21500685_Divyam_IP0NB0000016_selectiontask.ipynb contains the required code
+the era5_pm2.5.ipynb contains the required code
 
 Libraries used - 
 Pandas
